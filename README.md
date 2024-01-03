@@ -1,5 +1,6 @@
 # todo
 
+- [ ] Figurl: Support json in d query parameter
 - [ ] Develop [dendro_apps](https://github.com/magland/dendro_apps) - autodeploy, etc
 - [ ] Archive old repos
 - [ ] Dendro: nwb -> spike sorting analysis figurl
