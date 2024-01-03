@@ -9,6 +9,8 @@
 - [ ] Dendro: Set up free default resource with limited cpu/ram/disk for basic tasks
 - [ ] Audio/video view
 
+---
+
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
 ### 2024-01-03
