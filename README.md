@@ -8,7 +8,7 @@
 
 ### 2024-01-03
 
-- Export from Neurosift to Dendro
+- [x] Export from Neurosift to Dendro
 
 > It is now possible to export nwb files from neurosift into Dendro. See the "Export to Dendro" link in the screenshot.
 The user is redirected to the dendro app and can select whether to import into an existing project or create a new project.
