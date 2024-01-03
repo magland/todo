@@ -1,6 +1,5 @@
 # todo
 
-- [ ] Figurl: Support json in d query parameter
 - [ ] Develop [dendro_apps](https://github.com/magland/dendro_apps) - autodeploy, etc
 - [ ] Archive old repos
 - [ ] Dendro: nwb -> spike sorting analysis figurl
@@ -15,6 +14,7 @@
 
 ### 2024-01-03
 
+- [x] Figurl: Support json in d query parameter. [Here's an example](https://figurl.org/f?v=https://magland.github.io/fi-sci-dist/apps/figurl-spike-sorting-analysis&d={%22type%22:%22spike_sorting_analysis%22,%22analysisFile%22:%22sha1://84acb43da8a5be84c5d5ff18fc35907a4ab8b0a1?label=test.nh5%22}).
 - [x] Export from Neurosift to Dendro
 
 > It is now possible to export nwb files from neurosift into Dendro. See the "Export to Dendro" link in the screenshot.
