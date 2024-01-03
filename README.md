@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Develop [dendro_apps](https://github.com/magland/dendro_apps) - autodeploy, etc
+
 - [ ] Archive old repos
 - [ ] Dendro: nwb -> spike sorting analysis figurl
 - [ ] Clean up github home page
