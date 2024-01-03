@@ -5,6 +5,7 @@
 - [ ] Clean up github home page
 - [ ] [Dendro: Compute receptive fields figurl](https://github.com/flatironinstitute/dendro/issues/114)
 - [ ] Dendro: Set up free default resource with limited cpu/ram/disk for basic tasks
+- [ ] Audio/video view
 
 ### 2024-01-03
 
