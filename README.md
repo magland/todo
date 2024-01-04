@@ -1,8 +1,5 @@
 # todo
 
-- [ ] Linked analysis: render jupyter notebooks!
-- [ ] Dendro: conditional parameters (see slack from Alessio)
-- [ ] Develop [dendro_apps](https://github.com/magland/dendro_apps) - autodeploy, etc
 - [ ] Archive old repos
 - [ ] Dendro: nwb -> spike sorting analysis figurl
 - [ ] Clean up github home page
@@ -16,6 +13,8 @@
 
 ### 2024-01-04
 
+- [x] Develop [dendro_apps](https://github.com/magland/dendro_apps) - autodeploy, etc
+- [x] Linked analysis: render jupyter notebooks!
 - [x] Add allow_float64 to figurl and sortingview to be able to handle very long recordings
 - [x] Dendro: linked analysis view
 
