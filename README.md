@@ -16,6 +16,7 @@
 
 ### 2024-01-04
 
+- [x] Add allow_float64 to figurl and sortingview to be able to handle very long recordings
 - [x] Dendro: analysis view
 
 ### 2024-01-03
