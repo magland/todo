@@ -1,7 +1,8 @@
 # todo
 
+- [ ] Dendro: Fix CDK stack for attaching large disk to instance
+- [ ] Improve spike sorting analysis figurl (show snippets)
 - [ ] Archive old repos
-- [ ] Dendro: nwb -> spike sorting analysis figurl
 - [ ] Clean up github home page
 - [ ] [Dendro: Compute receptive fields figurl](https://github.com/flatironinstitute/dendro/issues/114)
 - [ ] Dendro: Set up free default resource with limited cpu/ram/disk for basic tasks
@@ -13,6 +14,7 @@
 
 ### 2024-01-04
 
+- [x] Dendro: nwb -> spike sorting analysis figurl
 - [x] Develop [dendro_apps](https://github.com/magland/dendro_apps) - autodeploy, etc
 - [x] Linked analysis: render jupyter notebooks!
 - [x] Add allow_float64 to figurl and sortingview to be able to handle very long recordings
