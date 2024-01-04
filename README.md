@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Dendro: conditional parameters (see slack from Alessio)
+- [ ] Dendro: Change analysis -> linked analysis (or associated analysis)
 - [ ] Develop [dendro_apps](https://github.com/magland/dendro_apps) - autodeploy, etc
 - [ ] Archive old repos
 - [ ] Dendro: nwb -> spike sorting analysis figurl
@@ -11,6 +13,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-04
+
+- [x] Dendro: analysis view
 
 ### 2024-01-03
 
