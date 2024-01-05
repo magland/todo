@@ -12,6 +12,12 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-01-05
+
+- [x] Dendro: fix gpu docker issue https://github.com/flatironinstitute/dendro/pull/116
+- [x] Dendro: fix console output upload issue (needs to be merged) https://github.com/flatironinstitute/dendro/pull/117
+- [x] Dendro frontend: support null parameter values for Optional[int] and Optional[float]
+
 ### 2024-01-04
 
 - [x] Dendro: nwb -> spike sorting analysis figurl
