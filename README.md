@@ -1,5 +1,6 @@
 # todo
 
+- [ ] Dendro: Show current project name in title bar
 - [ ] Dendro: render figurl in notebook in linked analysis
 - [ ] Dendro: create example analyses
 - [ ] Dendro/neurosift: Associate dendro project with dandi asset - reverse lookup
