@@ -1,6 +1,8 @@
 # todo
 
-- [ ] Dendro: Fix CI tests
+- [ ] Dendro: render figurl in notebook in linked analysis
+- [ ] Dendro: create example analyses
+- [ ] Dendro/neurosift: Associate dendro project with dandi asset - reverse lookup
 - [ ] Dendro: Fix CDK stack for attaching large disk to instance
 - [ ] Improve spike sorting analysis figurl (show snippets)
 - [ ] Archive old repos
@@ -12,6 +14,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-08
+
+- [x] Dendro: Fix CI tests
 
 ### 2024-01-05
 
