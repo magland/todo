@@ -1,5 +1,6 @@
 # todo
 
+- [ ] Dendro: Fix CI tests
 - [ ] Dendro: Fix CDK stack for attaching large disk to instance
 - [ ] Improve spike sorting analysis figurl (show snippets)
 - [ ] Archive old repos
