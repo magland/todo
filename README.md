@@ -1,5 +1,6 @@
 # todo
 
+- [ ] Kachery: remove fallback bucket stuff
 - [ ] Kachery: allow users to create zones (subdirectories of default)
 ---
 - [ ] Dendro: change landing page
