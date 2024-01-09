@@ -1,11 +1,10 @@
 # todo
 
+- [ ] Dendro: isomorphic git - handle case where history has changed
 - [ ] Dendro: projects list - make sortable
 - [ ] Dendro: add project without starting with dandiset
 - [ ] Dendro: on import, add dandiset tag to project
-- [ ] Dendro: recent projects list - update project names
-- [ ] Dendro: scroll bar for projects list
-- [ ] Dendro: Show current project name in title bar
+- [ ] Dendro: recent projects list - update project names ***
 - [ ] Dendro: render figurl in notebook in linked analysis
 - [ ] Dendro: create example analyses
 - [ ] Dendro: Fix CDK stack for attaching large disk to instance
@@ -22,7 +21,9 @@
 
 ### 2024-01-09
 
+- [x] Dendro: scroll bar for projects list
 - [x] Dendro/neurosift: Associate dendro project with dandi asset - reverse lookup
+- [x] Dendro: Show current project name in title bar
 
 ### 2024-01-08
 
