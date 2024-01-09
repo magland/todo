@@ -1,5 +1,6 @@
 # todo
 
+- [ ] Dendro: on import, add dandiset tag to project
 - [ ] Dendro: recent projects list - update project names
 - [ ] Dendro: scroll bar for projects list
 - [ ] Dendro: Show current project name in title bar
