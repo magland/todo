@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Kachery: allow users to create zones (subdirectories of default)
+---
 - [ ] Dendro: change landing page
 - [ ] Dendro: isomorphic git - handle case where history has changed
 - [ ] Dendro: isomorphic git - create own cors server
