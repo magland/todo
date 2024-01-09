@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Dendro: projects list - make sortable
+- [ ] Dendro: add project without starting with dandiset
 - [ ] Dendro: on import, add dandiset tag to project
 - [ ] Dendro: recent projects list - update project names
 - [ ] Dendro: scroll bar for projects list
