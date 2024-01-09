@@ -5,7 +5,6 @@
 - [ ] Dendro: isomorphic git - create own cors server
 - [ ] Dendro: projects list - make sortable
 - [ ] Dendro: add project without starting with dandiset
-- [ ] Dendro: on import, add dandiset tag to project ***
 - [ ] Dendro: render figurl in notebook in linked analysis
 - [ ] Dendro: create example analyses
 - [ ] Dendro: Fix CDK stack for attaching large disk to instance
@@ -22,6 +21,7 @@
 
 ### 2024-01-09
 
+- [x] Dendro: on import, add dandiset tag to project ***
 - [x] Dendro: recent projects list - update project names
 - [x] Dendro: scroll bar for projects list
 - [x] Dendro/neurosift: Associate dendro project with dandi asset - reverse lookup
