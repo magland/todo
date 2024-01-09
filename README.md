@@ -1,5 +1,6 @@
 # todo
 
+- [ ] Dendro: change landing page
 - [ ] Dendro: isomorphic git - handle case where history has changed
 - [ ] Dendro: projects list - make sortable
 - [ ] Dendro: add project without starting with dandiset
