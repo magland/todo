@@ -24,6 +24,7 @@
 
 ### 2024-01-09
 
+- [x] Kachery: multiple zones in a bucket
 - [x] Dendro: on import, add dandiset tag to project ***
 - [x] Dendro: recent projects list - update project names
 - [x] Dendro: scroll bar for projects list
