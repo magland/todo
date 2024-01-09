@@ -2,6 +2,7 @@
 
 - [ ] Dendro: change landing page
 - [ ] Dendro: isomorphic git - handle case where history has changed
+- [ ] Dendro: isomorphic git - create own cors server
 - [ ] Dendro: projects list - make sortable
 - [ ] Dendro: add project without starting with dandiset
 - [ ] Dendro: on import, add dandiset tag to project
