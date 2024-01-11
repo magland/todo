@@ -1,6 +1,5 @@
 # todo
 
-- [ ] Dendro: console output PR - merge and publish to pypi, notify Luiz
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
 - [ ] Dendro: try kubernetes compute resource - try KIND simulator
@@ -30,6 +29,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-11
+
+- [x] Dendro: console output PR - merge and publish to pypi
 
 ### 2024-01-10
 
