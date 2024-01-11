@@ -5,6 +5,7 @@
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
 - [ ] Dendro: try kubernetes compute resource - try KIND simulator
 ---
+- [ ] Kachery: revisit docs
 - [ ] Kachery: remove fallback bucket stuff
 - [ ] Kachery: allow users to create zones (subdirectories of default)
 ---
