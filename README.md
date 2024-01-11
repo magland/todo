@@ -22,6 +22,11 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-01-10
+
+- [x] Dendro: Demo 2D tuning curve notebooks for dandisets 000128 and 000582
+- [x] fi-sci: figurl-tuning-curves -- deployed to surge.sh
+
 ### 2024-01-09
 
 - [x] Kachery: multiple zones in a bucket
