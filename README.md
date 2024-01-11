@@ -1,5 +1,6 @@
 # todo
 
+- [ ] Kachery: update log processing job to include all zones
 - [ ] Dendro: analysis view: render markdown
 ---
 - [ ] Dendro: mechanism for saving parameter sets
