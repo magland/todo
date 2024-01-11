@@ -9,7 +9,6 @@
 ---
 - [ ] Kachery: revisit docs
 - [ ] Kachery: remove fallback bucket stuff
-- [ ] Kachery: allow users to create zones (subdirectories of default)
 ---
 - [ ] fi-sci: provide action to upload figurl-tuning-curves to surge.sh
 - [ ] Figure out how to dynamically compose figurl views, sharing a context
@@ -36,6 +35,8 @@
 ### 2024-01-11
 
 - [x] Dendro: console output PR - merge and publish to pypi
+- [x] Kachery: allow users to create zones (subdirectories of default)
+- [x] Dendro analyses: use poetry to manage dependencies for project analyses
 
 ### 2024-01-10
 
