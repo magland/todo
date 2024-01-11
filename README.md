@@ -1,5 +1,10 @@
 # todo
 
+- [ ] Dendro: console output PR - merge and publish to pypi, notify Luiz
+- [ ] Dendro: mechanism for saving parameter sets
+- [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
+- [ ] Dendro: try kubernetes compute resource - try KIND simulator
+---
 - [ ] Kachery: remove fallback bucket stuff
 - [ ] Kachery: allow users to create zones (subdirectories of default)
 ---
