@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Dendro: analysis view: render markdown
+---
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
 - [ ] Dendro: try kubernetes compute resource - try KIND simulator
