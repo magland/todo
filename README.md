@@ -9,6 +9,7 @@
 ---
 - [ ] Kachery: revisit docs
 - [ ] Kachery: remove fallback bucket stuff
+  - Need to think about how to do this. There is ~500GB on wasabi. A lot of this is spikeforest stuff. Maybe should be moved to a spikeforest zone? Then how to redirect existing links?
 ---
 - [ ] fi-sci: provide action to upload figurl-tuning-curves to surge.sh
 - [ ] Figure out how to dynamically compose figurl views, sharing a context
