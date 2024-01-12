@@ -1,7 +1,6 @@
 # todo
 
-- [ ] Kachery: update log processing job to include all zones
-- [ ] Dendro: analysis view: render markdown
+- [ ] Kachery: update log processing job to include all zones ***
 ---
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
@@ -32,11 +31,16 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-01-12
+
+- [x] Dendro: analysis view: render markdown ***
+
 ### 2024-01-11
 
 - [x] Dendro: console output PR - merge and publish to pypi
 - [x] Kachery: allow users to create zones (subdirectories of default)
 - [x] Dendro analyses: use poetry to manage dependencies for project analyses
+- [x] Dendro: Exploring AWS ec2 options
 
 ### 2024-01-10
 
