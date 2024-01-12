@@ -1,6 +1,5 @@
 # todo
 
-- [ ] Create nh5 python package
 ---
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
@@ -34,6 +33,7 @@
 
 ### 2024-01-12
 
+- [x] Create nh5 python package, and release to pypi
 - [x] Kachery: update log processing job to include all zones
 - [x] Dendro: analysis view: render markdown
 - [x] Dendro analysis: create app for dendro job
