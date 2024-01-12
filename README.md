@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Dendro analysis: refactor tuning curves job into dendro app
+---
 - [ ] Kachery: update log processing job to include all zones ***
 - [ ] Dendro: analysis - think about saving files back to project
 ---
