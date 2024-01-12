@@ -1,6 +1,7 @@
 # todo
 
 - [ ] Kachery: update log processing job to include all zones ***
+- [ ] Dendro: analysis - think about saving files back to project
 ---
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
@@ -33,7 +34,7 @@
 
 ### 2024-01-12
 
-- [x] Dendro: analysis view: render markdown ***
+- [x] Dendro: analysis view: render markdown
 
 ### 2024-01-11
 
