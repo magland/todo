@@ -34,7 +34,8 @@
 ### 2024-01-13
 
 - [x] remfile/pynwb: [Respond to Ryan](https://github.com/NeurodataWithoutBorders/pynwb/issues/1791#issuecomment-1890384094)
-- [x] remfile/pynwb: [created a PR](https://github.com/NeurodataWithoutBorders/pynwb/pull/1823) to update remfile verbiage in the docs. 
+- [x] remfile/pynwb: [created a PR](https://github.com/NeurodataWithoutBorders/pynwb/pull/1823) to update remfile verbiage in the docs.
+- [x] remfile/pynwb: Created [pynwb_streaming_benchmark](https://github.com/scratchrealm/pynwb_streaming_benchmark) repo
 
 ### 2024-01-12
 
