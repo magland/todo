@@ -1,5 +1,6 @@
 # todo
 
+- [ ] remfile: [Respond to Ryan](https://github.com/NeurodataWithoutBorders/pynwb/issues/1791#issuecomment-1890384094)
 ---
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
