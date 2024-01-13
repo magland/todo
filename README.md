@@ -1,6 +1,5 @@
 # todo
 
-- [ ] remfile: [Respond to Ryan](https://github.com/NeurodataWithoutBorders/pynwb/issues/1791#issuecomment-1890384094)
 ---
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
@@ -31,6 +30,11 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-13
+
+- [x] remfile/pynwb: [Respond to Ryan](https://github.com/NeurodataWithoutBorders/pynwb/issues/1791#issuecomment-1890384094)
+- [x] remfile/pynwb: [created a PR](https://github.com/NeurodataWithoutBorders/pynwb/pull/1823) to update remfile verbiage in the docs. 
 
 ### 2024-01-12
 
