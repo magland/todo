@@ -1,5 +1,6 @@
 # todo
 
+- [ ] remfile: improve benchmarks
 ---
 - [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
@@ -36,6 +37,9 @@
 - [x] remfile/pynwb: [Respond to Ryan](https://github.com/NeurodataWithoutBorders/pynwb/issues/1791#issuecomment-1890384094)
 - [x] remfile/pynwb: [created a PR](https://github.com/NeurodataWithoutBorders/pynwb/pull/1823) to update remfile verbiage in the docs.
 - [x] remfile/pynwb: Created [pynwb_streaming_benchmark](https://github.com/scratchrealm/pynwb_streaming_benchmark) repo
+- [x] Dendro: jobs now require approval
+
+On slack to Luiz: I have implemented and deployed a new 'feature' where you need to manually approve jobs before they will be picked up by the compute resource. Jobs can only be approved by the github owner of the compute resource. It should be evident in the gui how you do the approval (it's just clicking on an "approve" link). We can modify this mechanism in the future, but for now this will allow us to safely open up our aws compute resources to other groups. And it also avoids issues caused by a very large number of jobs accidentally queued by a runaway python script.
 
 ### 2024-01-12
 
