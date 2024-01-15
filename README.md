@@ -1,5 +1,7 @@
 # todo
 
+- [ ] High priority: Dendro: save parameters -- https://github.com/flatironinstitute/dendro/issues/115
+---
 - [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
 ---
 - [ ] remfile: improve benchmarks
