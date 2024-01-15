@@ -1,6 +1,5 @@
 # todo
 
-- [ ] High priority: Dendro: save parameters -- https://github.com/flatironinstitute/dendro/issues/115
 ---
 - [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
 ---
@@ -37,6 +36,7 @@
 
 ### 2024-01-15
 
+- [x] Dendro: save parameters -- https://github.com/flatironinstitute/dendro/issues/115
 - [x] Dendro: render figurl in notebook in linked analysis (this was actually completed last week)
 
 ### 2024-01-13
