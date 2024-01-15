@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
+---
 - [ ] remfile: improve benchmarks
 ---
 - [ ] Dendro: mechanism for saving parameter sets
