@@ -18,7 +18,6 @@
 - [ ] Dendro: isomorphic git - create own cors server
 - [ ] Dendro: projects list - make sortable
 - [ ] Dendro: add project without starting with dandiset
-- [ ] Dendro: render figurl in notebook in linked analysis
 - [ ] Dendro: create example analyses
 - [ ] Dendro: Fix CDK stack for attaching large disk to instance
 - [ ] Improve spike sorting analysis figurl (show snippets)
@@ -31,6 +30,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-15
+
+- [x] Dendro: render figurl in notebook in linked analysis (this was actually completed last week)
 
 ### 2024-01-13
 
