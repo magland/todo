@@ -36,6 +36,7 @@
 
 ### 2024-01-15
 
+- [x] Backup all github repos, create dev repo, transfer kachery-gateway repo to magland
 - [x] Dendro: save parameters -- https://github.com/flatironinstitute/dendro/issues/115
 - [x] Dendro: render figurl in notebook in linked analysis (this was actually completed last week)
 
