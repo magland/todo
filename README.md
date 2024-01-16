@@ -1,6 +1,7 @@
 # todo
 
-- [x] simplypyeval: in py
+- [ ] letter for simons neuro collab
+- [ ] simplypyeval: in py
 - [ ] Dendro: maintain list of system apps
 
 ---
