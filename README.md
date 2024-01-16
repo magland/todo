@@ -1,8 +1,8 @@
 # todo
 
 ---
-- [ ] Dendro: import/export job parameters from json file
-- [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval - perhaps use [json-logic](https://github.com/jwadhams/json-logic-js/)
+- [ ] Dendro: basic python interpreter for evaluating conditions
+- [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
 ---
 - [ ] remfile: improve benchmarks
 ---
@@ -34,6 +34,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-16
+
+- [s] Dendro: import/export job parameters from json file
 
 ### 2024-01-15
 
