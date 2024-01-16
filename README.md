@@ -1,5 +1,7 @@
 # todo
 
+- [ ] Dendro: maintain list of system apps
+
 ---
 - [ ] Dendro: basic python interpreter for evaluating conditions
 - [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
