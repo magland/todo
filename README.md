@@ -1,5 +1,6 @@
 # todo
 
+- [x] simplypyeval: in py
 - [ ] Dendro: maintain list of system apps
 
 ---
@@ -39,7 +40,9 @@
 
 ### 2024-01-16
 
-- [s] Dendro: import/export job parameters from json file
+- [x] simplypyeval: in js
+- [x] Denro: Dropdown for options parameters
+- [x] Dendro: import/export job parameters from json file
 
 ### 2024-01-15
 
