@@ -1,7 +1,7 @@
 # todo
 
 ---
-- [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
+- [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval - perhaps use [json-logic](https://github.com/jwadhams/json-logic-js/)
 ---
 - [ ] remfile: improve benchmarks
 ---
