@@ -2,16 +2,11 @@
 
 ---
 - [ ] letter for simons neuro collab
-- [ ] simplypyeval: in py
 - [ ] Dendro: maintain list of system apps
-
----
-- [ ] Dendro: basic python interpreter for evaluating conditions
 - [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
 ---
 - [ ] remfile: improve benchmarks
 ---
-- [ ] Dendro: mechanism for saving parameter sets
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
 - [ ] Dendro: try kubernetes compute resource - try KIND simulator
 ---
