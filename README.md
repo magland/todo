@@ -2,6 +2,9 @@
 
 ---
 
+- [ ] nh5 - create h5py-like interface for reading - important for inspecting outputs of cebra in dendro
+- [ ] Dendro frontent: plugins - create a plugin interface
+
 - [ ] Dendro: maintain list of system apps
 - [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
 ---
@@ -37,7 +40,6 @@
 
 ### 2024-01-17
 
-- [ ] nh5 - create h5py-like interface for reading
 - [x] letter for simons neuro collab
 - [x] Create cebra dendro app
 - [x] Create safepyeval: https://github.com/magland/safepyeval
