@@ -1,5 +1,6 @@
 # todo
 
+---
 - [ ] letter for simons neuro collab
 - [ ] simplypyeval: in py
 - [ ] Dendro: maintain list of system apps
@@ -38,6 +39,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-17
+
+- [x] Created safepyeval: https://github.com/magland/safepyeval
 
 ### 2024-01-16
 
