@@ -1,7 +1,7 @@
 # todo
 
 ---
-- [ ] letter for simons neuro collab
+
 - [ ] Dendro: maintain list of system apps
 - [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
 ---
@@ -37,8 +37,9 @@
 
 ### 2024-01-17
 
-- [ ] nh5 - create h5py-like interface for reading and writing
-- [ ] Create cebra dendro app
+- [ ] nh5 - create h5py-like interface for reading
+- [x] letter for simons neuro collab
+- [x] Create cebra dendro app
 - [x] Create safepyeval: https://github.com/magland/safepyeval
 
 ### 2024-01-16
