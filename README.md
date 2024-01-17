@@ -37,7 +37,7 @@
 
 ### 2024-01-17
 
-- [x] Created safepyeval: https://github.com/magland/safepyeval
+- [x] Create safepyeval: https://github.com/magland/safepyeval
 
 ### 2024-01-16
 
