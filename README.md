@@ -37,6 +37,8 @@
 
 ### 2024-01-17
 
+- [ ] nh5 - create h5py-like interface for reading and writing
+- [ ] Create cebra dendro app
 - [x] Create safepyeval: https://github.com/magland/safepyeval
 
 ### 2024-01-16
