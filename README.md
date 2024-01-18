@@ -1,6 +1,7 @@
 # todo
 
 ---
+- [ ] Dendro - pipelining of jobs
 
 - [ ] Dendro - quotas for api requests
 - [ ] nh5 - create h5py-like interface for reading - important for inspecting outputs of cebra in dendro
