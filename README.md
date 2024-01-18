@@ -2,7 +2,6 @@
 
 ---
 - [ ] Dendro: ability to upload to a scratch bucket
-- [ ] Dendro - pipelining of jobs
 
 - [ ] Dendro - quotas for api requests
 - [ ] nh5 - create h5py-like interface for reading - important for inspecting outputs of cebra in dendro
@@ -40,6 +39,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-18
+
+- [x] Dendro - pipelining of jobs
 
 ### 2024-01-17
 
