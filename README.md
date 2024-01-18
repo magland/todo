@@ -2,6 +2,8 @@
 
 ---
 
+reply to Felix re nlb_tools
+
 - [ ] nh5 - create h5py-like interface for reading - important for inspecting outputs of cebra in dendro
 - [ ] Dendro frontent: plugins - create a plugin interface
 
