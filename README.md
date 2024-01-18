@@ -1,6 +1,7 @@
 # todo
 
 ---
+- [ ] Dendro: ability to upload to a scratch bucket
 - [ ] Dendro - pipelining of jobs
 
 - [ ] Dendro - quotas for api requests
