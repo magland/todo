@@ -43,6 +43,7 @@
 
 ### 2024-01-19
 
+- [x] Neurosift - fixed display problem for time intervals
 - [x] Dendro - folders as inputs and outputs of jobs
 
 ### 2024-01-18
