@@ -1,7 +1,8 @@
 # todo
 
 ---
-- [ ] Dendro: ability to upload to a scratch bucket
+- [ ] Dendro: users bring their own s3 bucket
+- [ ] Dendro: pruning intermediate files
 
 - [ ] Dendro - quotas for api requests
 - [ ] nh5 - create h5py-like interface for reading - important for inspecting outputs of cebra in dendro
@@ -39,6 +40,10 @@
 ---
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
+
+### 2024-01-19
+
+- [x] Dendro - folders as inputs and outputs of jobs
 
 ### 2024-01-18
 
