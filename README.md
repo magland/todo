@@ -1,7 +1,7 @@
 # todo
 
 ---
-- [ ] Dendro: change landing page
+
 - [ ] Dendro: support folders in gui
 
 - [ ] Dendro: users bring their own s3 bucket
@@ -45,6 +45,7 @@
 
 ### 2024-01-19
 
+- [x] Dendro: change landing page
 - [x] Neurosift - fixed display problem for time intervals
 - [x] Dendro - folders as inputs and outputs of jobs
 
