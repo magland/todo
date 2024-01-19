@@ -1,6 +1,9 @@
 # todo
 
 ---
+- [ ] Dendro: change landing page
+- [ ] Dendro: support folders in gui
+
 - [ ] Dendro: users bring their own s3 bucket
 - [ ] Dendro: pruning intermediate files
 
@@ -23,7 +26,6 @@
 - [ ] fi-sci: provide action to upload figurl-tuning-curves to surge.sh
 - [ ] Figure out how to dynamically compose figurl views, sharing a context
 ---
-- [ ] Dendro: change landing page
 - [ ] Dendro: isomorphic git - handle case where history has changed
 - [ ] Dendro: isomorphic git - create own cors server
 - [ ] Dendro: projects list - make sortable
