@@ -2,6 +2,9 @@
 
 ---
 
+- [ ] prepare for ARC meeting
+- [ ] dandi-nwb-meta: include namespace (e.g., core)
+
 - [ ] Dendro: support folders in gui
 
 - [ ] Dendro: users bring their own s3 bucket
