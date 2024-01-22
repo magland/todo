@@ -43,6 +43,10 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-01-22
+
+- [ ] [dandi-nwb-meta](https://github.com/magland/dandi-nwb-meta/tree/main)
+
 ### 2024-01-19
 
 - [x] Dendro: change landing page
