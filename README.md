@@ -2,11 +2,11 @@
 
 ---
 
-- [ ] Dendro: autocorrelograms plugin
+- [ ] Dendro: autocorrelograms plugin ****
 
 - [ ] ARC initial setup
 
-- [ ] Dendro: support folders in gui
+- [ ] Dendro: support folders in gui ****
 
 - [ ] Dendro: users bring their own s3 bucket
 - [ ] Dendro: pruning intermediate files
