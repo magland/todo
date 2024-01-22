@@ -2,9 +2,9 @@
 
 ---
 
-- [ ] ARC initial setup
+- [ ] Dendro: autocorrelograms plugin
 
-- [ ] dandi-nwb-meta: include namespace (e.g., core)
+- [ ] ARC initial setup
 
 - [ ] Dendro: support folders in gui
 
@@ -49,7 +49,8 @@
 
 ### 2024-01-22
 
-- [ ] [dandi-nwb-meta](https://github.com/magland/dandi-nwb-meta/tree/main)
+- [x] dandi-nwb-meta: include namespace (e.g., core)
+- [x] [dandi-nwb-meta](https://github.com/magland/dandi-nwb-meta/tree/main)
 
 ### 2024-01-19
 
