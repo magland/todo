@@ -6,8 +6,6 @@
 
 - [ ] ARC initial setup
 
-- [ ] Dendro: support folders in gui ****
-
 - [ ] Dendro: users bring their own s3 bucket
 - [ ] Dendro: pruning intermediate files
 
@@ -51,6 +49,7 @@
 
 - [x] dandi-nwb-meta: include namespace (e.g., core)
 - [x] [dandi-nwb-meta](https://github.com/magland/dandi-nwb-meta/tree/main)
+- [x] Dendro: support folders in gui
 
 ### 2024-01-19
 
