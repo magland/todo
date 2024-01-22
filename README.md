@@ -2,7 +2,8 @@
 
 ---
 
-- [ ] prepare for ARC meeting
+- [ ] ARC initial setup
+
 - [ ] dandi-nwb-meta: include namespace (e.g., core)
 
 - [ ] Dendro: support folders in gui
