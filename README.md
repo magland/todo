@@ -45,6 +45,13 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-01-26
+
+- [x] spyndle - initial version of spyglass interface
+- [x] spyndle - kubernetes cluster
+- [x] dandi-nwb-meta - use h5tojson from rly
+- [x] h5tojson - use pydantic models
+
 ### 2024-01-22
 
 - [x] dandi-nwb-meta: include namespace (e.g., core)
