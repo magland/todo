@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] spyndle: multiple kube pods and dev mysql database
+
 - [ ] Dendro: autocorrelograms plugin ****
 
 - [ ] ARC initial setup
