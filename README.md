@@ -34,11 +34,7 @@
 - [ ] Dendro: isomorphic git - handle case where history has changed
 - [ ] Dendro: isomorphic git - create own cors server
 - [ ] Dendro: projects list - make sortable
-- [ ] Dendro: add project without starting with dandiset
-- [ ] Dendro: create example analyses
-- [ ] Dendro: Fix CDK stack for attaching large disk to instance
 - [ ] Improve spike sorting analysis figurl (show snippets)
-- [ ] Archive old repos
 - [ ] Clean up github home page
 - [ ] [Dendro: Compute receptive fields figurl](https://github.com/flatironinstitute/dendro/issues/114)
 - [ ] Dendro: Set up free default resource with limited cpu/ram/disk for basic tasks
@@ -51,6 +47,13 @@
 ### 2024-01-29
 
 - [x] Create FSBucket
+
+### Misc
+
+- [x] Dendro: add project without starting with dandiset
+- [x] Dendro: create example analyses
+- [x] Dendro: Fix CDK stack for attaching large disk to instance
+- [x] Archive old repos
 
 ### 2024-01-26
 
