@@ -48,6 +48,10 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-01-29
+
+- [x] Create FSBucket
+
 ### 2024-01-26
 
 - [x] spyndle - initial version of spyglass interface
