@@ -1,6 +1,7 @@
 # todo
 
 ---
+- [ ] spyndle: figure out how to auto restart pod if stops responding
 
 - [ ] spyndle: multiple kube pods and dev mysql database
 
