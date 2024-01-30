@@ -1,6 +1,9 @@
 # todo
 
 ---
+
+- [ ] create dandiset-vis-generator
+
 - [ ] spyndle: figure out how to auto restart pod if stops responding
 
 - [ ] spyndle: multiple kube pods and dev mysql database
@@ -47,6 +50,7 @@
 ### 2024-01-30
 
 - [x] MountainSort5: created Quip
+- [x] Collecting blurbs for p. eval
 
 ### 2024-01-29
 
