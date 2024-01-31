@@ -2,7 +2,7 @@
 
 ---
 
-- [ ] dendro: approval all jobs button *******************
+
 
 - [ ] create dandiset-vis-generator
 
@@ -49,7 +49,9 @@
 
 ### 2024-01-31
 
-- [ ] Create dandiset-vis-generator
+- [x] dendro: approve all jobs button
+- [x] Create dandiset-vis-generator
+- [x] Prepend Project ID on Job ID
 
 ### 2024-01-30
 
