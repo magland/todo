@@ -47,6 +47,10 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-01-31
+
+- [ ] Create dandiset-vis-generator
+
 ### 2024-01-30
 
 - [x] MountainSort5: created Quip
