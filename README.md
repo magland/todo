@@ -49,6 +49,10 @@
 
 ### 2024-01-31
 
+- [x] dandiset-vis-generator: 000582
+- [x] dandiset-vis-generator: 000784
+- [x] NwbSortingExtractor: allow units_path
+- [x] NwbSortingExtractor: allow no elec series
 - [x] dendro: approve all jobs button
 - [x] Create dandiset-vis-generator
 - [x] Prepend Project ID on Job ID
