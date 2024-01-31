@@ -2,13 +2,13 @@
 
 ---
 
+- [ ] dendro: approval all jobs button *******************
+
 - [ ] create dandiset-vis-generator
 
 - [ ] spyndle: figure out how to auto restart pod if stops responding
 
 - [ ] spyndle: multiple kube pods and dev mysql database
-
-- [ ] Dendro: autocorrelograms plugin ****
 
 - [ ] ARC initial setup
 
