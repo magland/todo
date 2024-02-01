@@ -45,10 +45,9 @@
 
 ---
 
-- [ ] Think about creating sadlytemporary.net on cloudflare
-
 ### 2024-02-01
 
+- [x] nh5 js: implement canceler
 - [x] dandi-vis
 - [x] dendro app: dandi-vis-1
 - [x] fi-sci app: figurl-dandi-vis
