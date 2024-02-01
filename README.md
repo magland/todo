@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] consolodate neurosift - remove unsused stuff, remove python part
+
 - [ ] dandi-vis links to neurosift
 - [ ] neurosift - load stuff from dendro project
 
