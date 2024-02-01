@@ -47,6 +47,12 @@
 
 - [ ] Think about creating sadlytemporary.net on cloudflare
 
+### 2024-02-01
+
+- [x] dandi-vis
+- [x] dendro app: dandi-vis-1
+- [x] fi-sci app: figurl-dandi-vis
+
 ### 2024-01-31
 
 - [x] dandiset-vis-generator: 000582
