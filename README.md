@@ -2,6 +2,9 @@
 
 ---
 
+- [ ] dandi-vis links to neurosift
+- [ ] neurosift - load stuff from dendro project
+
 - [ ] [Generate composite views for dandi-vis](https://github.com/magland/dandi-vis/blob/main/dandisets/000582/000582.md)
 - [ ] figurl-dandi-vis: raster plot: enforce max vert spacing between rows
 - [ ] raster plot nh5 - include binned data array ********************
