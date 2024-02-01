@@ -4,17 +4,9 @@
 
 - [ ] figurl-dandi-vis: raster plot: enforce max vert spacing between rows
 - [ ] raster plot nh5 - include binned data array ********************
-
 - [ ] Neurosift: PSTH for units in other location: /processing/ecephys/units (https://flatironinstitute.github.io/neurosift/?p=/nwb&url=https://api.dandiarchive.org/api/assets/9a62deaf-fb56-4103-aadd-e883ce5eced1/download/&dandisetId=000784&dandisetVersion=draft)
-
-- [ ] create dandiset-vis-generator
-
 - [ ] spyndle: figure out how to auto restart pod if stops responding
-
 - [ ] spyndle: multiple kube pods and dev mysql database
-
-- [ ] ARC initial setup
-
 - [ ] Dendro: users bring their own s3 bucket
 - [ ] Dendro: pruning intermediate files
 
