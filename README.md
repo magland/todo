@@ -46,6 +46,11 @@
 
 ---
 
+### 2024-02-06
+
+- [x] Dendro: file download button
+- [x] dendro si-pipelines: stub_test_duration_sec parameter
+
 ### 2024-02-01
 
 - [x] nh5 js: implement canceler
