@@ -48,6 +48,8 @@
 
 ### 2024-02-06
 
+- [x] prog rep
+- [x] dandi-vis: spike_sorting_summary
 - [x] Dendro: file download button
 - [x] dendro si-pipelines: stub_test_duration_sec parameter
 
