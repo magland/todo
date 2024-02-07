@@ -2,14 +2,8 @@
 
 ---
 
-- [ ] consolodate neurosift - remove unsused stuff, remove python part
-
-- [ ] dandi-vis links to neurosift
-- [ ] neurosift - load stuff from dendro project
-
 - [ ] [Generate composite views for dandi-vis](https://github.com/magland/dandi-vis/blob/main/dandisets/000582/000582.md)
-- [ ] figurl-dandi-vis: raster plot: enforce max vert spacing between rows
-- [ ] raster plot nh5 - include binned data array ********************
+- [ ] raster plot nh5 - include binned data array
 - [ ] Neurosift: PSTH for units in other location: /processing/ecephys/units (https://flatironinstitute.github.io/neurosift/?p=/nwb&url=https://api.dandiarchive.org/api/assets/9a62deaf-fb56-4103-aadd-e883ce5eced1/download/&dandisetId=000784&dandisetVersion=draft)
 - [ ] spyndle: figure out how to auto restart pod if stops responding
 - [ ] spyndle: multiple kube pods and dev mysql database
@@ -57,6 +51,9 @@
 - [x] dandi-vis: spike_sorting_summary
 - [x] Dendro: file download button
 - [x] dendro si-pipelines: stub_test_duration_sec parameter
+- [x] dandi-vis links to neurosift
+- [x] neurosift - load stuff from dendro project
+- [x] figurl-dandi-vis: raster plot: enforce max vert spacing between rows
 
 ### 2024-02-01
 
