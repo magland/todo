@@ -49,6 +49,7 @@
 ### 2024-02-07
 
 - [x] dendro: spike_sorting_summary (SSS)
+- [x] move neurosift source code to fi-sci (this was actually done sometime last week)
 
 ### 2024-02-06
 
