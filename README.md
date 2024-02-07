@@ -2,35 +2,32 @@
 
 ---
 
+- [ ] Dendro compute resource: trigger reload of apps from gui (in case spec.json has changed) - do not crash on fail
+- [ ] Dendro - quotas for api requests
+- [ ] Dendro: maintain list of system apps
+- [ ] Dendro: projects list - make sortable
+
 - [ ] [Generate composite views for dandi-vis](https://github.com/magland/dandi-vis/blob/main/dandisets/000582/000582.md)
 - [ ] raster plot nh5 - include binned data array
-- [ ] spyndle: figure out how to auto restart pod if stops responding
-- [ ] spyndle: multiple kube pods and dev mysql database
 - [ ] Dendro: users bring their own s3 bucket
 - [ ] Dendro: pruning intermediate files
-
-- [ ] Dendro - quotas for api requests
-- [ ] nh5 - create h5py-like interface for reading - important for inspecting outputs of cebra in dendro
 - [ ] Dendro frontent: plugins - create a plugin interface
 
-- [ ] Dendro: maintain list of system apps
 - [ ] Dendro: compute resource - provide configuration option to determine which jobs require approval
 ---
 - [ ] remfile: improve benchmarks
 ---
 - [ ] Dendro: in an app, somehow specify what requirements there are for nwb input file
-- [ ] Dendro: try kubernetes compute resource - try KIND simulator
 ---
 - [ ] Kachery: revisit docs
 - [ ] Kachery: remove fallback bucket stuff
   - Need to think about how to do this. There is ~500GB on wasabi. A lot of this is spikeforest stuff. Maybe should be moved to a spikeforest zone? Then how to redirect existing links?
 ---
-- [ ] fi-sci: provide action to upload figurl-tuning-curves to surge.sh
 - [ ] Figure out how to dynamically compose figurl views, sharing a context
 ---
 - [ ] Dendro: isomorphic git - handle case where history has changed
 - [ ] Dendro: isomorphic git - create own cors server
-- [ ] Dendro: projects list - make sortable
+
 - [ ] Improve spike sorting analysis figurl (show snippets)
 - [ ] Clean up github home page
 - [ ] [Dendro: Compute receptive fields figurl](https://github.com/flatironinstitute/dendro/issues/114)
