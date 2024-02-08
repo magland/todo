@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] Dendro: option to store outputs local to compute resource
+
 - [ ] Dendro: don't refresh the whole file view when a job status changes
 - [ ] Dendro: Private projects - do not show on neurosift
 
