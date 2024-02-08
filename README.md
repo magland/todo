@@ -2,7 +2,8 @@
 
 ---
 
-- [x] Private projects - do not show on neurosift
+- [ ] Dendro: don't refresh the whole file view when a job status changes
+- [ ] Dendro: Private projects - do not show on neurosift
 
 - [ ] Dendro compute resource: trigger reload of apps from gui (in case spec.json has changed) - do not crash on fail
 - [ ] Dendro - quotas for api requests
