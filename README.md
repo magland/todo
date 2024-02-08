@@ -36,6 +36,10 @@
 
 ---
 
+### 2024-04-08
+
+- [x] dandi-vis: ecephys_summary processor
+
 ### 2024-02-07
 
 - [x] dendro: spike_sorting_summary (SSS)
