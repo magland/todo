@@ -39,6 +39,8 @@
 - [ ] Dendro: Set up free default resource with limited cpu/ram/disk for basic tasks
 - [ ] Audio/video view
 
+- [ ] Neurosift zoom improvement suggestion from Cody: https://github.com/flatironinstitute/neurosift/issues/120
+
 ---
 
 ### 2024-04-08
