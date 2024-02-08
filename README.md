@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] Neurosift: Dandiset view: https://github.com/flatironinstitute/neurosift/issues/104
+
 - [ ] Dendro: option to store outputs local to compute resource
 
 - [ ] Dendro: don't refresh the whole file view when a job status changes
