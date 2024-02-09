@@ -2,7 +2,7 @@
 
 ---
 
-- [ ] Neurosift: Dandiset view: https://github.com/flatironinstitute/neurosift/issues/104
+- [ ] Neurosift: dandiset selector: https://github.com/flatironinstitute/neurosift/issues/104
 
 - [ ] Dendro: option to store outputs local to compute resource
 
@@ -44,6 +44,10 @@
 - [ ] Neurosift zoom improvement suggestion from Cody: https://github.com/flatironinstitute/neurosift/issues/120
 
 ---
+### 2024-04-09
+
+- [x] Neurosift: dandiset page
+- [x] Dendro: changes to api supporting SI json files for processed recordings
 
 ### 2024-04-08
 
