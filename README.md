@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] Neurosift: Trial Aligned ROI Series: https://github.com/flatironinstitute/neurosift/issues/115
+
 - [ ] Neurosift: dandiset selector: https://github.com/flatironinstitute/neurosift/issues/104
 
 - [ ] Dendro: option to store outputs local to compute resource
