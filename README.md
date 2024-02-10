@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] Dendro: figure out how to support projects with very large number of files/jobs
+
 - [ ] Neurosift: Trial Aligned ROI Series: https://github.com/flatironinstitute/neurosift/issues/115
 
 - [ ] Neurosift: dandiset selector: https://github.com/flatironinstitute/neurosift/issues/104
@@ -50,6 +52,7 @@
 
 - [x] Neurosift: dandiset page
 - [x] Dendro: changes to api supporting SI json files for processed recordings
+- [x] Neurosift: show CHANGES file for dandiset
 
 ### 2024-04-08
 
