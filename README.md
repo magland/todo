@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] Neurosift: Dendro tab
+
 - [ ] Dendro: figure out how to support projects with very large number of files/jobs
 
 - [ ] Neurosift: Trial Aligned ROI Series: https://github.com/flatironinstitute/neurosift/issues/115
