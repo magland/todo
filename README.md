@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] Neurosift: PSTH button even when units is not in standard place. Pop up with message that they should select a TimeIntervals. Same with TimeAlignedSeries
+
 - [ ] Neurosift: Dendro tab
 
 - [ ] Dendro: figure out how to support projects with very large number of files/jobs
