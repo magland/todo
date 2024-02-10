@@ -2,6 +2,8 @@
 
 ---
 
+- [ ] dandi-nwb-meta: create index file - do not gzip - load from neurosift
+
 - [ ] Neurosift: PSTH button even when units is not in standard place. Pop up with message that they should select a TimeIntervals. Same with TimeAlignedSeries
 
 - [ ] Neurosift: Dendro tab
