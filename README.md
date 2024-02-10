@@ -48,7 +48,11 @@
 - [ ] Neurosift zoom improvement suggestion from Cody: https://github.com/flatironinstitute/neurosift/issues/120
 
 ---
-### 2024-04-09
+### 2024-02-10
+
+- [x] Neurosift: TimeAlignedSeries
+
+### 2024-02-09
 
 - [x] Neurosift: dandiset page
 - [x] Dendro: changes to api supporting SI json files for processed recordings
