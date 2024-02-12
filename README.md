@@ -54,6 +54,13 @@
 - [ ] Neurosift zoom improvement suggestion from Cody: https://github.com/flatironinstitute/neurosift/issues/120
 
 ---
+### 2024-02-12
+
+- [ ] si-dendro-apps: si_preprocessing_dev
+- [x] dendro: get project file uri
+- [x] Figure out cloudflare tunnel
+
+
 ### 2024-02-10
 
 - [x] Neurosift: TimeAlignedSeries
