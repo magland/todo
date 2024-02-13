@@ -54,9 +54,15 @@
 - [ ] Neurosift zoom improvement suggestion from Cody: https://github.com/flatironinstitute/neurosift/issues/120
 
 ---
+
+### 2024-02-13
+
+- [x] Dendro: file caching on compute resource
+- [x] Dendro: implementing project scripts
+
 ### 2024-02-12
 
-- [ ] si-dendro-apps: si_preprocessing_dev
+- [x] si-dendro-apps: working on si_preprocessing_dev
 - [x] dendro: get project file uri
 - [x] Figure out cloudflare tunnel
 
