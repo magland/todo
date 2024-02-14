@@ -55,6 +55,10 @@
 
 ---
 
+### 2024-02-14
+
+- [x] Dendro: projects scripts
+
 ### 2024-02-13
 
 - [x] Dendro: file caching on compute resource
