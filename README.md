@@ -1,6 +1,7 @@
 # todo
 
 ---
+- [ ] dendro: rename project script
 
 - [ ] dendro processor: Extract frame slice -> NWB
 
