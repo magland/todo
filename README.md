@@ -1,6 +1,8 @@
 # todo
 
 ---
+- [ ] dendroextractors - pypi package
+
 - [ ] dendro: rename project script
 
 - [ ] dendro processor: Extract frame slice -> NWB
