@@ -60,6 +60,11 @@
 
 ---
 
+### 2024-02-19
+
+- [x] dendroextractors
+- [x] troubleshooting error on writing binary recording
+
 ### 2024-02-14
 
 - [x] Dendro: projects scripts
