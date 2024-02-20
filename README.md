@@ -1,7 +1,7 @@
 # todo
 
 ---
-- [ ] dendro jobs: option to save local and/or to the cloud
+- [ ] dendro jobs: option to save outputs local and/or to the cloud
 
 - [ ] dendro: rename project script
 
