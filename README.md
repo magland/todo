@@ -1,7 +1,7 @@
 # todo
 
 ---
-- [ ] dendroextractors - pypi package
+- [ ] dendro jobs: option to save local and/or to the cloud
 
 - [ ] dendro: rename project script
 
