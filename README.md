@@ -3,8 +3,6 @@
 ---
 - [ ] dandi-vis: attach processing scripts to dendro project
 
-- [ ] dendro: rename project script
-
 - [ ] dendro: list of apps to conveniently add to a compute resource
 
 - [ ] dandi-nwb-meta: create index file - do not gzip - load from neurosift
@@ -64,6 +62,7 @@
 
 - [x] Dendro SI MC pipeline
 - [x] figurl/RasterVis: https://figurl.org/f?v=https://figurl-raster-vis.surge.sh/index.html&d=sha1://6960bfacd9d975c8aab448b80713e2e5c440f69e&label=figurl_data.json
+- [x] dendro: rename project script
 
 ### 2024-02-20
 
