@@ -1,6 +1,8 @@
 # todo
 
 ---
+- [ ] dendro: list of apps to conveniently add to a compute resource
+
 - [ ] dendro jobs: option to save outputs local and/or to the cloud
 
 - [ ] dendro: rename project script
