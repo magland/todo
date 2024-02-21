@@ -62,6 +62,10 @@
 
 ---
 
+### 2024-02-21
+
+- [x] Dendro SI pipeline
+
 ### 2024-02-19
 
 - [x] dendroextractors
