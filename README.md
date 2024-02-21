@@ -1,6 +1,8 @@
 # todo
 
 ---
+- [ ] dandi-vis: attach processing scripts to dendro project
+
 - [ ] dendro: rename project script
 
 - [ ] dendro: list of apps to conveniently add to a compute resource
