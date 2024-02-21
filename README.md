@@ -7,8 +7,6 @@
 
 - [ ] dendro: rename project script
 
-- [ ] dendro processor: Extract frame slice -> NWB
-
 - [ ] dandi-nwb-meta: create index file - do not gzip - load from neurosift
 
 - [ ] Neurosift: PSTH button even when units is not in standard place. Pop up with message that they should select a TimeIntervals. Same with TimeAlignedSeries
@@ -65,6 +63,10 @@
 ### 2024-02-21
 
 - [x] Dendro SI pipeline
+
+### 2024-02-20
+
+- [x] dendro processor: Extract frame slice -> NWB
 
 ### 2024-02-19
 
