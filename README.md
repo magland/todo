@@ -1,11 +1,9 @@
 # todo
 
 ---
-- [ ] dendro: list of apps to conveniently add to a compute resource
-
-- [ ] dendro jobs: option to save outputs local and/or to the cloud
-
 - [ ] dendro: rename project script
+
+- [ ] dendro: list of apps to conveniently add to a compute resource
 
 - [ ] dandi-nwb-meta: create index file - do not gzip - load from neurosift
 
@@ -62,11 +60,13 @@
 
 ### 2024-02-21
 
-- [x] Dendro SI pipeline
+- [x] Dendro SI MC pipeline
+- [x] figurl/RasterVis: https://figurl.org/f?v=https://figurl-raster-vis.surge.sh/index.html&d=sha1://6960bfacd9d975c8aab448b80713e2e5c440f69e&label=figurl_data.json
 
 ### 2024-02-20
 
 - [x] dendro processor: Extract frame slice -> NWB
+- [ ] dendro: skipCloudUpload option
 
 ### 2024-02-19
 
