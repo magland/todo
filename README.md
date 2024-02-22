@@ -1,6 +1,10 @@
 # todo
 
 ---
+- [ ] dandi-vis: timing-benchmarks
+
+- [ ] Dendro: approve selected jobs
+
 - [ ] dandi-vis: attach processing scripts to dendro project
 
 - [ ] dendro: list of apps to conveniently add to a compute resource
@@ -57,6 +61,10 @@
 - [ ] Neurosift zoom improvement suggestion from Cody: https://github.com/flatironinstitute/neurosift/issues/120
 
 ---
+
+### 2024-02-22
+
+- [x] Brainhack: created slack channel for RasterVis
 
 ### 2024-02-21
 
