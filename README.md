@@ -21,8 +21,6 @@
 
 - [ ] Neurosift: dandiset selector: https://github.com/flatironinstitute/neurosift/issues/104
 
-- [ ] Dendro: option to store outputs local to compute resource
-
 - [ ] Dendro: don't refresh the whole file view when a job status changes
 - [ ] Dendro: Private projects - do not show on neurosift
 
@@ -93,6 +91,7 @@
 ### 2024-02-13
 
 - [x] Dendro: file caching on compute resource
+- [x] Dendro: option to store outputs local to compute resource
 - [x] Dendro: implementing project scripts
 
 ### 2024-02-12
