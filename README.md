@@ -62,9 +62,13 @@
 
 ---
 
+### 2024-02-23
+
+- [x] QFC - Quantized Fourier Compression
+
 ### 2024-02-22
 
-- [x] Brainhack: created slack channel for RasterVis
+- [x] Brainhack: RasterVis slack channel
 
 ### 2024-02-21
 
