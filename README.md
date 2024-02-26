@@ -5,8 +5,6 @@
 
 - [ ] Dendro: approve selected jobs
 
-- [ ] dandi-vis: attach processing scripts to dendro project
-
 - [ ] dendro: list of apps to conveniently add to a compute resource
 
 - [ ] dandi-nwb-meta: create index file - do not gzip - load from neurosift
@@ -59,6 +57,11 @@
 - [ ] Neurosift zoom improvement suggestion from Cody: https://github.com/flatironinstitute/neurosift/issues/120
 
 ---
+
+### 2024-02-26
+
+- [x] dandi-vis: attach processing scripts to dendro project
+- [x] dandi-vis: workflow to generate dandiset md files
 
 ### 2024-02-23
 
