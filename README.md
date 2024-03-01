@@ -58,6 +58,19 @@
 
 ---
 
+### 2024-03-01
+
+- [ ] working on neurosift-annotations
+- [ ] polishing qfc
+
+### 2024-02-27 - 2024-02-29
+
+- [x] pre-COSYNE Brainhack
+- [x] rastervis
+- [x] h5_to_zarr_for_nwb
+- [x] ophys visualization
+- [x] qfc codec
+
 ### 2024-02-26
 
 - [x] dandi-vis: attach processing scripts to dendro project
