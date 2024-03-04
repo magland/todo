@@ -62,6 +62,8 @@
 
 ### 2024-03-04
 
+- [ ] measure entropy of ephys recording to get an idea of compression potential
+
 ### 2024-03-01
 
 - [x] neurosift-annotations
