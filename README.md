@@ -1,6 +1,8 @@
 # todo
 
 ---
+- [ ] remote-h5-file: arrange for [benchmarks](https://github.com/NeurodataWithoutBorders/nwb_benchmarks/issues/30#issuecomment-1975066028)
+
 - [ ] dandi-vis: timing-benchmarks
 
 - [ ] Dendro: approve selected jobs
@@ -58,10 +60,12 @@
 
 ---
 
+### 2024-03-03
+
 ### 2024-03-01
 
-- [ ] working on neurosift-annotations
-- [ ] polishing qfc
+- [x] neurosift-annotations
+- [x] polishing qfc
 
 ### 2024-02-27 - 2024-02-29
 
