@@ -62,7 +62,9 @@
 
 ### 2024-03-06
 
-- [ ] Move neurosift app to neurosift.org
+- [x] Move neurosift app to neurosift.org
+- [x] neurosift: improve annotations login
+- [ ] Create neurosift-dendro
 
 ### 2024-03-04
 
