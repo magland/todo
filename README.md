@@ -62,7 +62,7 @@
 
 ### 2024-03-06
 
-- [x] Move neurosift app to neurosift.org
+- [x] Move neurosift app to neurosift.app
 - [x] neurosift: improve annotations login
 - [x] Expand neurosift-annotations to have an aggregated database
 - [x] neurosift-annotations: rework naming within repos
