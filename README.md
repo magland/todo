@@ -60,9 +60,13 @@
 
 ---
 
+### 2024-03-06
+
+- [ ] Move neurosift app to neurosift.org
+
 ### 2024-03-04
 
-- [ ] measure entropy of ephys recording to get an idea of compression potential
+- [x] measure entropy of ephys recording to get an idea of compression potential
 
 ### 2024-03-01
 
