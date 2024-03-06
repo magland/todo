@@ -66,8 +66,9 @@
 - [x] neurosift: improve annotations login
 - [x] Expand neurosift-annotations to have an aggregated database
 - [x] neurosift-annotations: rework naming within repos
+- [x] neurosift psth: select groupby categories: https://github.com/flatironinstitute/neurosift/issues/133#issuecomment-1975113373
+- [ ] neurosift: instruct to set dandi api key if unable to load file and suspect embargoed
 - [ ] Create neurosift-dendro
-- [ ] neurosift psth: select groupby categories: https://github.com/flatironinstitute/neurosift/issues/133#issuecomment-1975113373
 
 ### 2024-03-04
 
