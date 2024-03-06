@@ -65,6 +65,9 @@
 - [x] Move neurosift app to neurosift.org
 - [x] neurosift: improve annotations login
 - [ ] Create neurosift-dendro
+- [ ] Expand neurosift-annotations to have an aggregated database
+- [ ] neurosift-annotations: rework naming within repos
+- [ ] neurosift psth: select groupby categories: https://github.com/flatironinstitute/neurosift/issues/133#issuecomment-1975113373
 
 ### 2024-03-04
 
