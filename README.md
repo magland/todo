@@ -60,6 +60,12 @@
 
 ---
 
+### 2024-03-07
+
+- [x] fix neurosift psth groupby categories for NaN case
+- [ ] Create neurosift-dendro-apps
+- [ ] neurosift: instruct to set dandi api key if unable to load file and suspect embargoed
+
 ### 2024-03-06
 
 - [x] Move neurosift app to neurosift.app
@@ -67,8 +73,6 @@
 - [x] Expand neurosift-annotations to have an aggregated database
 - [x] neurosift-annotations: rework naming within repos
 - [x] neurosift psth: select groupby categories: https://github.com/flatironinstitute/neurosift/issues/133#issuecomment-1975113373
-- [ ] neurosift: instruct to set dandi api key if unable to load file and suspect embargoed
-- [ ] Create neurosift-dendro
 
 ### 2024-03-04
 
