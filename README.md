@@ -60,6 +60,11 @@
 
 ---
 
+### 2024-03-08
+
+- [x] try_spikeforest_new (with ab)
+- [x] hdmf-zarr, zarr, nwb, kerchunk...
+
 ### 2024-03-07
 
 - [x] fix neurosift psth groupby categories for NaN case
