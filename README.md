@@ -60,6 +60,15 @@
 
 ---
 
+### 2024-03-12
+
+- [x] neurosift-kerchunker
+- [ ] pynwb with kerchunk
+
+### 2024-03-11
+
+- [x] neurosift-kerchunker
+
 ### 2024-03-08
 
 - [x] try_spikeforest_new (with ab)
