@@ -60,10 +60,17 @@
 
 ---
 
+### 2024-03-13
+
+- [x] LINDI
+
+### 2024-03-13
+
+- [x] LINDI
+
 ### 2024-03-12
 
 - [x] neurosift-kerchunker
-- [ ] pynwb with kerchunk
 
 ### 2024-03-11
 
