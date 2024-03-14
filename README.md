@@ -63,6 +63,7 @@
 ### 2024-03-13
 
 - [x] LINDI
+- [ ] SortingView curation kbd shortcuts
 
 ### 2024-03-13
 
